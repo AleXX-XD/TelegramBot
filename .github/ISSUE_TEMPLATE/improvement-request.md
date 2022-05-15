@@ -3,10 +3,8 @@ name: Improvement request
 about: Suggest an improvment for this project
 title: "[IMPROVEMENT]"
 labels: enhancement
-assignees: alexx-xd
+assignees: AleXX-XD
 
 ---
 
 ** Describe your idea of the improvement **
-
-
